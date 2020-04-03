@@ -1,0 +1,15 @@
+
+# POST  https://www.qbboss.com//app/areas/location  HTTP/1.1
+# content-type: application/json
+
+# {
+# "latitude":"31.152075",
+# "longitude":"121.119225",
+#   "tokenId":"738aec3f202ba20a8f61d96bddd28f12"
+# }
+
+
+GET  https://www.qbboss.com/app/areas/page?tokenId=738aec3f202ba20a8f61d96bddd28f12 HTTP/1.1
+content-type: application/json
+
+ 
